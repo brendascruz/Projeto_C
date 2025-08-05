@@ -3,6 +3,7 @@ Bem-vindo(a) ao meu repositório de estudos em linguagem C!
 Aqui estou registrando minha jornada de aprendizado, desafios resolvidos e anotações importantes enquanto estudo programação em C.
 
 🚀 Sobre este repositório
+
 Este projeto tem como objetivo:
 
 🧠 Consolidar meu aprendizado na linguagem C
